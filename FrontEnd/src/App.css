@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap");
+body,
+html {
+  background: #000;
+  width: 100%;
+  height: 100%;
+  font-family: "Karla", sans-serif;
+}
+::-webkit-scrollbar {
+  height: 4px;
+  width: 1px;
+  background: rgb(201, 187, 187);
+}
+::-webkit-scrollbar-thumb:horizontal {
+  background: rgb(244, 51, 51);
+  border-radius: 10px;
+}
